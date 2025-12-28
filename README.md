@@ -5,7 +5,7 @@
 
 A collection of deep learning projects that went through 3 stages:
 
-> ⚪ Idea → 🔵 Trial & Error → 🟢 “It finally works, don't touch it!”
+> ⚪ Idea → 🔵 Trial & Error → 🟢 “It finally works!”
 
 🧪 Tech Stack
 
@@ -14,7 +14,7 @@ A collection of deep learning projects that went through 3 stages:
 * 🐍 Python
 * 🧠 TensorFlow & Keras (whichever mood strikes)
 * 📊 NumPy, Pandas, Matplotlib
-* 🗂️ Jupyter Notebooks – because tabs > semicolons
+* 🗂️ Google Colab – because tabs > semicolons
 
 📚 Why This Exists
 
